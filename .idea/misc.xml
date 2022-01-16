@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/layout/activity_course.xml" value="0.22" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/layout/activity_list_course.xml" value="0.2028985507246377" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/layout/activity_maps.xml" value="0.338768115942029" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/layout/activity_my_course.xml" value="0.22" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/layout/activity_news.xml" value="0.34646739130434784" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/layout/activity_read_news.xml" value="0.34646739130434784" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/layout/activity_register_course.xml" value="0.3088768115942029" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/layout/activity_social.xml" value="0.25" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/layout/item_course.xml" value="0.33" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/layout/item_list_news.xml" value="0.33" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/xml/paths2.xml" value="0.15572916666666667" />
+        <entry key="..\:/GV-HUTECH/FPL/LAB-RESULT/MOB201_Lap_trinh_Android_nang_cao_SP18/ASM/ASM_AndroidNC/app/src/main/res/xml/xml.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

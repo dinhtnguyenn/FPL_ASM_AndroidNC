@@ -2,7 +2,7 @@
 FPL ASM AndroidUI
 FPL Assignment Thiết kế giao diện trên Android - MOB202 
 
-Documments: https://github.com/dinhtnguyenn/FPL_ASM_AndroidNC/blob/main/_readme/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ASM%20-%20AndroidNC.pdf
+Documments: https://github.com/dinhtnguyenn/FPL_ASM_AndroidNC/tree/main/_readme
 
 Videos: https://www.youtube.com/playlist?list=PLzNgKQA0vkdo-zrrcAql8FPk1svYXh2nx
 
